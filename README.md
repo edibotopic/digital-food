@@ -8,6 +8,7 @@ Table of Contents
 
 - [Tools](#tools)
 - [Languages](#languages)
+- [Concepts](#concepts)
 - [Writing](#writing)
 - [Games](#games)
 - [Ontologies](#ontologies)
@@ -28,6 +29,8 @@ Resources
 
 [is-vegan](https://github.com/hmontazeri/is-vegan): javascript-based tool to determine whether a food ingredient is vegan 
 
+[recipe-grid](https://github.com/mossblaser/recipe_grid): Python utilities and library for converting recipe markup in tabular form that combines ingredients and steps in a clear and concise visual manner
+
 ### languages
 
 [Cooklang](https://github.com/cooklang/spec): A markup language for writing recipes that can be parsed and syntax-highlighted
@@ -35,6 +38,12 @@ Resources
 [DSF](http://www2.agroparistech.fr/IMG/pdf/Two_formalisms_for_IJP_revised.pdf): A semi-formal language developed for describing food systems by Professor Hervé This, which is an amalgamation of two earlier formalisms: the complex dispersed systems formalism (CDS) and the non-periodic organisation space (NPOS) formalism
 
 [RxOL](http://diyhpl.us/~bryan/papers2/CompCook.html): Described in this short book by David A. Mundie from 1985, a formal language (RxOL) and accompanying software (Cocina) for programmatically analysing and generating recipes.
+
+### Concepts
+
+[cooking-patterns repository](https://github.com/appplemac/cooking-patterns): a collection of "cooking patterns", abstractions that can be instantiated as different common recipes depending on choices made during meal preparation, yielding "variations"
+
+[cooking-patterns explanation](https://alexey.ch/post/2015/02/cooking-patterns/): article explaining the cooking patterns concept
 
 [tacofancy](https://github.com/sinker/tacofancy): A repository of taco recipes written according the Object Oriented paradigm
 
