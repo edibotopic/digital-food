@@ -29,12 +29,6 @@ for creating recipes and shopping lists using the
 tool and web app to determine an average or "consensus" recipe from 
 thousands of possible versions of a given recipe
 
-[disperse](https://github.com/edibotopic/disperse): A web-based 
-implementation of the Dispersed System Formalism (DSF), focused on the 
-procedural generation of systems consisting of topologically related 
-phases. Based on descriptions of DSF outlined by Professor Hervé This 
-in a series of articles in food and pharmaceutical journals
-
 [Random Taco Generator](https://play.google.com/store/apps/details?id=com.doopstudio.randomtacomaker&hl=en_IE&gl=US): 
 A mobile app for randomly generating taco recipes, builing on the 
 [TacoFancy API](https://github.com/sinker/tacofancy)
